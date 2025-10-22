@@ -7,7 +7,7 @@ author:
   name: Dr. Elara Vance
   picture: "/assets/blog/authors/aris.jpeg"
 ogImage:
-  url: "/assets/blog/exoplanets/cover.jpg"
+  url: "/assets/blog/test/test.jpeg"
 ---
 
 TEST The cosmos is a tapestry woven with billions of galaxies, each containing billions of stars. For most of human history, we could only dream of planets orbiting these distant suns. That all changed in the 1990s, and now we know that almost every star in the sky is likely accompanied by its own planetary system. These distant worlds, known as **exoplanets**, range from 'Hot Jupiters' baked by their parent star to rocky **Super-Earths** nestled in the **habitable zone**—the orbital region where a planet's surface temperature is just right for liquid water to exist. This "Goldilocks Zone" is where the most intense searches for life are focused.
